@@ -48,8 +48,10 @@ What do you think about the number and scale of the inconsistencies in the data?
 
 ## Reflection 6
 Why were you interested in this particular question? Were you able to answer your question with code? What did you learn? Answer in at least 1-3 sentences
+
 -I was interested in exploring the average number of new COVID cases per day in the most recent data. With the code provided, I was able to answer the question and calculate the average new cases per day for the entire country. I learned that the average number of new cases per day can be a useful to understand the current COVID situation in the U.S.
 
 ## Reflection 7
 What, if anything, made you curious about this COVID analysis? What, if anything, surprised you? What might you do the same or differently on your next data wrangling project? Answer in at least 1-3 sentences
+
 -I was curious to see how the COVID data would evolve over time and how different states would be affected. The different various variable in the data sets surprise me. On my next data wrangling project, I would continue to use the tidyverse and dplyr packages for efficient data manipulation, because it is easy to seattle the data with those package.
