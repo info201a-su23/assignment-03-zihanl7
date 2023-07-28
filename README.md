@@ -47,7 +47,7 @@ What do you think about the number and scale of the inconsistencies in the data?
 - I think those inconsistencies in the data are worth to study. We should use this Data instead of disregard them, because we can use those data to make data more reliable to use in the future.
 
 ## Reflection 6
-Why were you interested in this particular question? Were you able to answer your question with code? What did you learn? Answer in at least 1-3 sentences
+Why were you interested in this particular question? Were you able to answer your question with code? What did you learn? Answer in at least 1-3 sentences.
 
 -I was interested in exploring the average number of new COVID cases per day in the most recent data. With the code provided, I was able to answer the question and calculate the average new cases per day for the entire country. I learned that the average number of new cases per day can be a useful to understand the current COVID situation in the U.S.
 
